@@ -12,8 +12,3 @@ data/images/img77.jpg
 data/images/img78.jpg
 data/images/img79.jpg
 data/images/img80.jpg
-data/images/img81.jpg
-data/images/img82.jpg
-data/images/img83.jpg
-data/images/img84.jpg
-data/images/img85.jpg
