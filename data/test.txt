@@ -1,3 +1,7 @@
+data/images/img82.jpg
+data/images/img83.jpg
+data/images/img84.jpg
+data/images/img85.jpg
 data/images/img86.jpg
 data/images/img87.jpg
 data/images/img88.jpg
